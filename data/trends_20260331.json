@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Python for Data Analysis",
+        "score":1200.0,
+        "num_comments":45,
+        "created":1710000000
+    },
+    {
+        "title":"New AI Model Released",
+        "score":850.0,
+        "num_comments":30,
+        "created":1710000060
+    },
+    {
+        "title":"Data Pipeline Project",
+        "score":450.0,
+        "num_comments":12,
+        "created":1710000120
+    },
+    {
+        "title":"Reddit API Tips",
+        "score":null,
+        "num_comments":5,
+        "created":1710000180
+    },
+    {
+        "title":"Machine Learning Basics",
+        "score":300.0,
+        "num_comments":40,
+        "created":1710000240
+    }
+]

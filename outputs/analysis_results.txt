@@ -1,0 +1,5 @@
+--- Data Analysis Report ---
+Total Posts: 5
+Average Score: 560.00
+Highest Score: 1200.0
+Top Post: Python for Data Analysis
